@@ -241,4 +241,4 @@ window.onload = function () {
         context.clearRect(0, 0, 400, 400);
         play();
     }
-}
+} 
